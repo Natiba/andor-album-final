@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andor-album-final/static/css/main.11f1e32b.css",
-    "main.js": "/andor-album-final/static/js/main.1c84ae2d.js",
+    "main.css": "/andor-album-final/static/css/main.0fd06c49.css",
+    "main.js": "/andor-album-final/static/js/main.07204f9a.js",
     "static/media/andor-kino-loy.jpeg": "/andor-album-final/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
     "static/media/andor-kleya-marki.jpeg": "/andor-album-final/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
     "static/media/andor-mon-mothma.jpeg": "/andor-album-final/static/media/andor-mon-mothma.93688cc4243f64392d53.jpeg",
@@ -16,11 +16,11 @@
     "static/media/andor-cinta-kaz.jpeg": "/andor-album-final/static/media/andor-cinta-kaz.5200d6b6aebd02b48d78.jpeg",
     "static/media/andor-vel-sartha.jpeg": "/andor-album-final/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
     "index.html": "/andor-album-final/index.html",
-    "main.11f1e32b.css.map": "/andor-album-final/static/css/main.11f1e32b.css.map",
-    "main.1c84ae2d.js.map": "/andor-album-final/static/js/main.1c84ae2d.js.map"
+    "main.0fd06c49.css.map": "/andor-album-final/static/css/main.0fd06c49.css.map",
+    "main.07204f9a.js.map": "/andor-album-final/static/js/main.07204f9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.11f1e32b.css",
-    "static/js/main.1c84ae2d.js"
+    "static/css/main.0fd06c49.css",
+    "static/js/main.07204f9a.js"
   ]
 }
