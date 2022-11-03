@@ -1,0 +1,57 @@
+.AlbumCard1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 19%;
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(121, 18, 18);
+    color: rgb(179, 172, 157)
+}
+
+img {
+    width: 100%;
+}
+/*
+img:hover {
+    box-shadow: 0 0 24px rgb(247, 208, 109);  
+} */
+
+.isCromo {
+    box-shadow: 0 0 24px rgb(247, 208, 109);  
+}
+
+.figurine {
+    border: 1px solid rgb(179, 172, 157);
+    padding: 4%;
+    width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.cromo {
+    background-color: rgb(176, 168, 153);
+    color: rgb(42, 37, 39);
+    width: 80%;
+    padding: 3% 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+  @media screen and (max-width: 768px) {
+    .AlbumCard1
+    {
+        width: 27%;
+    }  
+  }
+  
+  @media screen and (max-width: 600px) {
+    .AlbumCard1
+    {
+        width: 43%;
+    }  
+  }
+  

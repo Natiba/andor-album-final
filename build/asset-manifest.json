@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/andor-album-final/static/css/main.11f1e32b.css",
+    "main.js": "/andor-album-final/static/js/main.1c84ae2d.js",
+    "static/media/andor-kino-loy.jpeg": "/andor-album-final/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
+    "static/media/andor-kleya-marki.jpeg": "/andor-album-final/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
+    "static/media/andor-mon-mothma.jpeg": "/andor-album-final/static/media/andor-mon-mothma.93688cc4243f64392d53.jpeg",
+    "static/media/andor-luthen-rael.jpeg": "/andor-album-final/static/media/andor-luthen-rael.a067f7c79509e39a895d.jpeg",
+    "static/media/andor-cassian.jpeg": "/andor-album-final/static/media/andor-cassian.91795850e1e5c6c92c2e.jpeg",
+    "static/media/andor-saw-gerrera_.jpeg": "/andor-album-final/static/media/andor-saw-gerrera_.2554e0ca87e5e734c492.jpeg",
+    "static/media/andor-maarva.jpeg": "/andor-album-final/static/media/andor-maarva.b0f3def0aedb5531b667.jpeg",
+    "static/media/andor-bixCaleen.jpeg": "/andor-album-final/static/media/andor-bixCaleen.4f4d49f2027d9fabbd38.jpeg",
+    "static/media/andor-syril-karn.webp": "/andor-album-final/static/media/andor-syril-karn.87353f62c5ad7d4bcb3f.webp",
+    "static/media/andor-dedra-meero.jpeg": "/andor-album-final/static/media/andor-dedra-meero.5424fe2c12da6c552139.jpeg",
+    "static/media/andor-empty.jpeg": "/andor-album-final/static/media/andor-empty.089dfce95f1c6edc93d7.jpeg",
+    "static/media/andor-cinta-kaz.jpeg": "/andor-album-final/static/media/andor-cinta-kaz.5200d6b6aebd02b48d78.jpeg",
+    "static/media/andor-vel-sartha.jpeg": "/andor-album-final/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
+    "index.html": "/andor-album-final/index.html",
+    "main.11f1e32b.css.map": "/andor-album-final/static/css/main.11f1e32b.css.map",
+    "main.1c84ae2d.js.map": "/andor-album-final/static/js/main.1c84ae2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f1e32b.css",
+    "static/js/main.1c84ae2d.js"
+  ]
+}
