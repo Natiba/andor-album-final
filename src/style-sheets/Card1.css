@@ -13,12 +13,8 @@
 img {
     width: 100%;
 }
-/*
-img:hover {
-    box-shadow: 0 0 24px rgb(247, 208, 109);  
-} */
 
-.isCromo {
+img:hover {
     box-shadow: 0 0 24px rgb(247, 208, 109);  
 }
 
@@ -32,10 +28,11 @@ img:hover {
 }
 
 .cromo {
-    background-color: rgb(176, 168, 153);
+    background-color: rgb(16, 16, 16);
     color: rgb(42, 37, 39);
-    width: 80%;
-    padding: 3% 2%;
+    width: 40%;
+    height: 40px;
+    padding: 2%;
     display: flex;
     align-items: center;
     justify-content: center;
